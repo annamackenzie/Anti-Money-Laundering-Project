@@ -21,10 +21,10 @@ I tested a number of different classification models including: K-nearest neighb
 The best performing Random Forest Classifier produced an accuracy score of 96.9% on the testing set, compared to a baseline score of 50%. In this case false negatives are an unwanted risk, so a high recall score is important, the best Random Forest produced a recall of 96.7% on the testing set.
 
 ## Conclusion
-###[TBU]
+[TBU]
 
 ## Output Model to Pickle
-###[TBU]
+[TBU]
 
 ## Productionisation
-###[TBU]
+[TBU]
