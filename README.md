@@ -4,7 +4,7 @@
 Money laundering is a huge problem globally, it is estimated that $2tn of illicit funds is laundered worldwide each year and integrated into the legitimate economy. People often assume such anonymous shell companies are all based offshore, in fact there exists vast networks of UK registered companies being used for financial crime. UK companies carry a facade of legitimacy whilst also being incredibly quick and easy to set up from anywhere in the world, making them extremely attractive for criminals. 
 
 ## Project Aim
-The aim of the project is to build a classification model that can detect suspicous companies based solely on publicly available data. The product would be used in conjuction with exisiting AML procedures to flag companies that require further investigation.
+The aim of the project is to build a classification model that can detect suspicous companies based solely on publicly available data from the Companies House website. The product would be used in conjuction with exisiting AML procedures to flag companies that require further investigation.
 
 ## Data Collection
 I collated a dataset of suspicious companies previously linked to money laundering and financial crime networks, based on a list of names suggested by investigative journalists and information leaks including data from the Troika, Azerbaijani and Russian Laundromats. The other "negative" cases were sampled randomly from the complete Companies House database, working on the assumption that the fraction of UK companies being used for financial crime undetected is very small.
