@@ -21,10 +21,4 @@ I tested a number of different classification models including: K-nearest neighb
 The best performing Random Forest Classifier produced an accuracy score of 96.9% on the testing set, compared to a baseline score of 50%. In this case false negatives are an unwanted risk, so a high recall score is important, the best Random Forest produced a recall of 96.7% on the testing set.
 
 ## Conclusion
-[TBU]
-
-## Output Model to Pickle
-[TBU]
-
-## Productionisation
-[TBU]
+The results suggest that classifcation models using the selected features can effectively detect suspicous companies at risk of being exploited for money laundering or financial crime. The feature importance of the model was able to highlight "red flags" which may indicate further due diligence is required. The project further highlighted the gaps in the current system and how it easily it can be manipulated for illegitimate purposes. I believe this work could be extremely useful in supporting existing AML procedures as an added layer of detection.
